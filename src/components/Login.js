@@ -25,7 +25,7 @@ export default function Login() {
         <br />
         <br />
         <div className='admin-button'>
-          <a href="mailto:moahntylaxminarayan120@gmail.com" >
+          <a href="EMAIL_ID" >
           <MessageOutlined />Contact Admin</a>
           
         </div>
